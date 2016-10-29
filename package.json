@@ -1,0 +1,10 @@
+{
+  "name": "file-size",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "4.6.4",
+    "multer": "^1.2.0"
+  }
+}
